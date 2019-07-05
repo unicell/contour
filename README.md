@@ -1,6 +1,7 @@
 # Contour [![Build Status][1]][2] [![Go Report Card][21]][22]
 
 ![Contour is fun at parties!](contour.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funicell%2Fcontour.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Funicell%2Fcontour?ref=badge_shield)
 
 ## Overview
 Contour is an Ingress controller for Kubernetes that works by deploying the [Envoy proxy][13] as a reverse proxy and load balancer. Unlike other Ingress controllers, Contour supports dynamic configuration updates out of the box while maintaining a lightweight profile.
@@ -121,3 +122,7 @@ See [the list of releases][6] to find out about feature changes.
 [22]: https://goreportcard.com/report/github.com/heptio/contour
 [23]: /docs/ingressroute.md 
 [24]: /docs/zenhub.md 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funicell%2Fcontour.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Funicell%2Fcontour?ref=badge_large)
